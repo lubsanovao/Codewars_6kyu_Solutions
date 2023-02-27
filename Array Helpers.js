@@ -1,7 +1,9 @@
 // DESCRIPTION:
-//     This kata is designed to test your ability to extend the functionality of built-in classes. In this case, we want you to extend the built-in Array class with the following methods: square(), cube(), average(), sum(), even() and odd().
+// This kata is designed to test your ability to extend the functionality of built-in classes. In this case,
+// we want you to extend the built-in Array class with the following methods:
+// square(), cube(), average(), sum(), even() and odd().
 //
-//     Explanation:
+// Explanation:
 //
 // square() must return a copy of the array, containing all values squared
 // cube() must return a copy of the array, containing all values cubed
